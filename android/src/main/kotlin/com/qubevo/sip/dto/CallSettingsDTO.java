@@ -1,6 +1,6 @@
 package com.qubevo.sip.dto;
 
-import com.facebook.react.bridge.ReadableMap;
+//import com.facebook.react.bridge.ReadableMap;
 import com.google.gson.Gson;
 
 public class CallSettingsDTO {
@@ -51,23 +51,23 @@ public class CallSettingsDTO {
         return gson.fromJson(json, CallSettingsDTO.class);
     }
 
-    public static CallSettingsDTO fromReadableMap(ReadableMap data) {
-        CallSettingsDTO result = new CallSettingsDTO();
-
-        if (data.hasKey("audioCount")) {
-            result.setAudioCount(data.getInt("audioCount"));
-        }
-        if (data.hasKey("videoCount")) {
-            result.setVideoCount(data.getInt("videoCount"));
-        }
-        if (data.hasKey("flag")) {
-            result.setFlag(data.getInt("flag"));
-        }
-        if (data.hasKey("requestKeyframeMethod")) {
-            result.setRequestKeyframeMethod(data.getInt("requestKeyframeMethod"));
-        }
-
-        return result;
-    }
+//    public static CallSettingsDTO fromReadableMap(ReadableMap data) {
+//        CallSettingsDTO result = new CallSettingsDTO();
+//
+//        if (data.hasKey("audioCount")) {
+//            result.setAudioCount(data.getInt("audioCount"));
+//        }
+//        if (data.hasKey("videoCount")) {
+//            result.setVideoCount(data.getInt("videoCount"));
+//        }
+//        if (data.hasKey("flag")) {
+//            result.setFlag(data.getInt("flag"));
+//        }
+//        if (data.hasKey("requestKeyframeMethod")) {
+//            result.setRequestKeyframeMethod(data.getInt("requestKeyframeMethod"));
+//        }
+//
+//        return result;
+//    }
 
 }

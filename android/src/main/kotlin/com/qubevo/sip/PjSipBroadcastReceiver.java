@@ -5,14 +5,10 @@ import android.content.Context;
 import android.content.Intent;
 import android.content.IntentFilter;
 import android.util.Log;
-import com.carusto.ReactNativePjSip.utils.ArgumentUtils;
-import com.facebook.react.bridge.Callback;
-import com.facebook.react.bridge.ReactApplicationContext;
-import com.facebook.react.modules.core.DeviceEventManagerModule;
 
 import java.util.HashMap;
 
-import javax.annotation.Nullable;
+
 
 public class PjSipBroadcastReceiver extends BroadcastReceiver {
 

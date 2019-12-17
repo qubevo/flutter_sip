@@ -49,6 +49,7 @@ import org.pjsip.pjsua2.pjsip_status_code;
 import org.pjsip.pjsua2.pjsip_transport_type_e;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
@@ -450,8 +451,17 @@ public class PjSipService extends Service {
 
     private void handleAccountCreate(Intent intent) {
         try {
-            AccountConfigurationDTO accountConfiguration = AccountConfigurationDTO.fromIntent(intent);
-            PjSipAccount account = doAccountCreate(accountConfiguration);
+//            AccountConfigurationDTO accountConfiguration = AccountConfigurationDTO.fromIntent(intent);
+            AccountConfigurationDTO acc = new AccountConfigurationDTO();
+            acc.name = "POC USER";
+            acc.username = "998100601136";
+            acc.password = "EW8T1YFvwA18";
+            acc.domain = "172.16.171.60";
+            acc.transport = "TCP";
+            Map<String, String> headers = new HashMap<String, String>();
+            headers.put("X-Mobile-Version", "v100\r\nX-PushId: com.cirpack.poc2\r\nX-Push-Device: 21232333\r\nX-PushToken: \r\nX-DEVICE-CLASS: 2\r\nX-PushId: com.cirpack.poc2");
+            acc.regHeaders = headers;
+            PjSipAccount account = doAccountCreate(acc);
 
             // Emmit response
             mEmitter.fireAccountCreated(intent, account);

@@ -2,7 +2,7 @@ package com.qubevo.sip.dto;
 
 import android.content.Intent;
 //import android.support.annotation.Nullable;
-import androidx.annotation.NonNull;
+//import androidx.annotation.NonNull;
 
 import java.util.Map;
 

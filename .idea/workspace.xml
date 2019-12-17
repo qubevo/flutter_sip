@@ -5,254 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dbad7126-d6ed-489f-9e51-c6fbe9f04c49" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/PjCamera.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/PjCameraInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/Account.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/AccountCallConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/AccountConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/AccountInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/AccountIpChangeConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/AccountMediaConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/AccountMwiConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/AccountNatConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/AccountPresConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/AccountRegConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/AccountSipConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/AccountVideoConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/AudDevManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/AudioDevInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/AudioDevInfoVector.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/AudioMedia.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/AudioMediaPlayer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/AudioMediaPlayerInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/AudioMediaRecorder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/AudioMediaVector.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/AuthCredInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/AuthCredInfoVector.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/Buddy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/BuddyConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/BuddyInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/BuddyVector.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/Call.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/CallInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/CallMediaInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/CallMediaInfoVector.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/CallOpParam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/CallSendRequestParam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/CallSetting.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/CallVidSetStreamParam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/CodecFmtp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/CodecFmtpVector.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/CodecInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/CodecInfoVector.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/CodecParam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/CodecParamInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/CodecParamSetting.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/ConfPortInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/ContainerNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/Endpoint.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/EpConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/Error.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/FindBuddyMatch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/IntVector.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/IpChangeParam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/JbufState.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/JsonDocument.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/LogConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/LogEntry.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/LogWriter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/LossType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/MathStat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/Media.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/MediaConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/MediaCoordinate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/MediaEvent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/MediaEventData.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/MediaFmtChangedEvent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/MediaFormat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/MediaFormatAudio.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/MediaFormatVector.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/MediaFormatVideo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/MediaSize.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/MediaTransportInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/OnBuddyEvSubStateParam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/OnCallMediaEventParam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/OnCallMediaStateParam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/OnCallMediaTransportStateParam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/OnCallRedirectedParam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/OnCallReplaceRequestParam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/OnCallReplacedParam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/OnCallRxOfferParam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/OnCallSdpCreatedParam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/OnCallStateParam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/OnCallTransferRequestParam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/OnCallTransferStatusParam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/OnCallTsxStateParam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/OnCallTxOfferParam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/OnCreateMediaTransportParam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/OnCreateMediaTransportSrtpParam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/OnDtmfDigitParam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/OnIncomingCallParam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/OnIncomingSubscribeParam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/OnInstantMessageParam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/OnInstantMessageStatusParam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/OnIpChangeProgressParam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/OnMwiInfoParam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/OnNatCheckStunServersCompleteParam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/OnNatDetectionCompleteParam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/OnRegStartedParam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/OnRegStateParam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/OnSelectAccountParam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/OnStreamCreatedParam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/OnStreamDestroyedParam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/OnTimerParam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/OnTransportStateParam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/OnTypingIndicationParam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/PendingJob.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/PersistentDocument.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/PersistentObject.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/PresNotifyParam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/PresenceStatus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/RegProgressParam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/RtcpSdes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/RtcpStat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/RtcpStreamStat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/RxMsgEvent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/SWIGTYPE_p_p_void.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/SWIGTYPE_p_pj_bool_t.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/SWIGTYPE_p_pj_ssize_t.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/SWIGTYPE_p_pjmedia_vid_dev_hwnd_type.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/SWIGTYPE_p_std__vectorT_pj__MediaFormat_t.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/SWIGTYPE_p_unsigned_char.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/SWIGTYPE_p_vectorT_pj__SrtpCrypto_t.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/SWIGTYPE_p_vectorT_pj__SslCertName_t.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/SWIGTYPE_p_void.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/SdpSession.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/SendInstantMessageParam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/SendTypingIndicationParam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/SipEvent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/SipEventBody.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/SipHeader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/SipHeaderVector.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/SipMediaType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/SipMultipartPart.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/SipMultipartPartVector.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/SipRxData.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/SipTransaction.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/SipTxData.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/SipTxOption.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/SrtpCrypto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/SslCertInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/SslCertName.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/StreamInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/StreamStat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/StringVector.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/TimeVal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/TimerEvent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/TlsConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/TlsInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/ToneDesc.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/ToneDescVector.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/ToneDigit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/ToneDigitMapDigit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/ToneDigitMapVector.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/ToneDigitVector.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/ToneGenerator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/TransportConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/TransportInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/TsxStateEvent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/TsxStateEventSrc.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/TxErrorEvent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/TxMsgEvent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/UaConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/UserEvent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/Version.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/VidCodecParam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/VidDevManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/VideoDevInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/VideoDevInfoVector.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/VideoPreview.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/VideoPreviewOpParam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/VideoSwitchParam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/VideoWindow.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/VideoWindowHandle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/VideoWindowInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/WindowHandle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pj_constants_.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pj_file_access.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pj_log_decoration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pj_qos_flag.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pj_qos_params.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pj_qos_type.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pj_qos_wmm_prio.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pj_ssl_cert_name_type.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pj_ssl_cert_verify_flag_t.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pj_ssl_cipher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pj_ssl_sock_proto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pj_stun_nat_type.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pj_turn_tp_type.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjmedia_aud_dev_cap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjmedia_aud_dev_id.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjmedia_aud_dev_route.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjmedia_dir.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjmedia_event_type.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjmedia_file_player_option.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjmedia_file_writer_option.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjmedia_format_id.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjmedia_orient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjmedia_srtp_crypto_option.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjmedia_srtp_use.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjmedia_tone_desc.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjmedia_tone_digit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjmedia_tone_digit_map.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjmedia_tp_proto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjmedia_type.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjmedia_vid_dev_cap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjmedia_vid_dev_std_index.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjmedia_vid_packing.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjmedia_vid_stream_rc_method.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjrpid_activity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjsip_cred_data_type.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjsip_dialog_cap_status.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjsip_event_id_e.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjsip_evsub_state.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjsip_hdr_e.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjsip_inv_state.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjsip_redirect_op.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjsip_role_e.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjsip_ssl_method.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjsip_status_code.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjsip_transport_flags_e.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjsip_transport_state.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjsip_transport_type_e.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjsip_tsx_state_e.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjsua2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjsua2Constants.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjsua2JNI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjsua_100rel_use.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjsua_buddy_status.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjsua_call_flag.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjsua_call_hold_type.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjsua_call_media_status.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjsua_call_vid_strm_op.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjsua_create_media_transport_flag.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjsua_destroy_flag.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjsua_invalid_id_const_.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjsua_ip_change_op.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjsua_ipv6_use.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjsua_med_tp_st.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjsua_nat64_opt.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjsua_sip_timer_use.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjsua_snd_dev_id.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjsua_snd_dev_mode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjsua_state.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjsua_stun_use.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/pjsip/pjsua2/pjsua_vid_req_keyframe_method.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/kotlin/com/qubevo/sip/SipPlugin.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/kotlin/com/qubevo/sip/SipPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/kotlin/com/qubevo/sip/SipPlugin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/kotlin/com/qubevo/sip/SipPlugin2.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/example/android/app/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sip.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sip.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.dart_tool/" />
@@ -269,44 +26,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/example/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/android/src/main/kotlin/com/qubevo/sip/PjActions.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="77" selection-start-line="77" selection-end-line="77" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/android/src/main/kotlin/com/qubevo/sip/SipPlugin2.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/android/src/main/kotlin/com/qubevo/sip/SipPlugin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="44" column="5" lean-forward="true" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
+            <state relative-caret-position="522">
+              <caret line="29" column="79" selection-start-line="29" selection-start-column="79" selection-end-line="29" selection-end-column="79" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/android/src/main/kotlin/com/qubevo/sip/PjSipModule.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="48" column="5" lean-forward="true" selection-start-line="44" selection-start-column="4" selection-end-line="48" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -327,6 +63,9 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>emitter</find>
+      <find>plugin</find>
+      <find>class</find>
+      <find>sip</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -361,13 +100,15 @@
         <option value="$PROJECT_DIR$/android/src/main/kotlin/com/qubevo/sip/PjActions.java" />
         <option value="$PROJECT_DIR$/android/src/main/kotlin/com/qubevo/sip/SipPlugin.kt" />
         <option value="$PROJECT_DIR$/android/src/main/kotlin/com/qubevo/sip/SipPlugin2.kt" />
+        <option value="$PROJECT_DIR$/android/build.gradle" />
+        <option value="$PROJECT_DIR$/example/android/app/build.gradle" />
         <option value="$PROJECT_DIR$/android/src/main/kotlin/com/qubevo/sip/SipPlugin.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="387" />
-    <option name="y" value="47" />
+    <option name="x" value="363" />
+    <option name="y" value="76" />
     <option name="width" value="2050" />
     <option name="height" value="1376" />
   </component>
@@ -377,6 +118,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -402,11 +144,66 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="sip" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sip" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sip" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sip" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sip" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sip" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qubevo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sip" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sip" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qubevo" type="462c0819:PsiDirectoryNode" />
+              <item name="sip" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sip" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sip" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sip" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sip" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sip" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sip" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -461,10 +258,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="387" y="47" width="2050" height="1376" extended-state="0" />
+    <frame x="363" y="76" width="2050" height="1376" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23456176" />
       <window_info id="Captures" order="1" side_tool="true" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -473,9 +270,8 @@
       <window_info id="Resources Explorer" order="6" />
       <window_info id="Capture Tool" order="7" />
       <window_info id="Favorites" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Build" visible="true" weight="0.32943925" />
       <window_info anchor="bottom" id="Dart Analysis" order="0" weight="0.32943925" />
-      <window_info anchor="bottom" id="Run" order="1" weight="0.32943925" />
+      <window_info anchor="bottom" id="Run" order="1" weight="0.41510904" />
       <window_info anchor="bottom" id="TODO" order="2" />
       <window_info anchor="bottom" id="Android Profiler" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Logcat" order="4" weight="0.36370715" />
@@ -485,6 +281,7 @@
       <window_info anchor="bottom" id="Flutter Performance" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" visible="true" weight="0.32943925" />
+      <window_info anchor="bottom" id="Build" order="11" visible="true" weight="0.32943925" />
       <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Theme Preview" order="2" />
@@ -494,23 +291,7 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/android/src/main/java/org/pjsip/PjCamera.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="36" column="23" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/sip.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example/lib/main.dart">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/android/src/main/java/org/pjsip/PjCamera.java" />
     <entry file="file://$PROJECT_DIR$/android/src/main/kotlin/com/qubevo/sip/PjSipBroadcastEmiter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -545,13 +326,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/android/src/main/kotlin/com/qubevo/sip/PjSipMessage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" selection-start-column="23" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/android/src/main/kotlin/com/qubevo/sip/PjSipModule.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="23" selection-start-column="23" selection-end-column="23" />
@@ -677,10 +451,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/android/src/main/kotlin/com/qubevo/sip/ReadableMap.java">
+    <entry file="file://$PROJECT_DIR$/android/src/main/kotlin/com/qubevo/sip/ReadableMap.java" />
+    <entry file="file://$PROJECT_DIR$/android/src/main/kotlin/com/qubevo/sip/SipPlugin.kt" />
+    <entry file="file://$PROJECT_DIR$/android/src/main/kotlin/com/qubevo/sip/SipPlugin2.kt" />
+    <entry file="file://$PROJECT_DIR$/android/src/main/kotlin/com/qubevo/sip/PjActions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="1386">
+          <caret line="77" selection-start-line="77" selection-end-line="77" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -689,42 +466,98 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/example/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        <state relative-caret-position="234">
+          <caret line="13" column="74" selection-start-line="13" selection-start-column="65" selection-end-line="13" selection-end-column="74" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/android/src/main/kotlin/com/qubevo/sip/SipPlugin.kt">
+    <entry file="file://$PROJECT_DIR$/sip.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/.flutter-plugins">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="23" column="28" lean-forward="true" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+        <state relative-caret-position="18">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/android/src/main/kotlin/com/qubevo/sip/PjActions.java">
+    <entry file="file://$PROJECT_DIR$/example/android/app/src/main/kotlin/com/qubevo/sip_example/MainActivity.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="77" selection-start-line="77" selection-end-line="77" />
+        <state relative-caret-position="162">
+          <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#32#147#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/android/src/main/kotlin/com/qubevo/sip/SipPlugin2.kt">
+    <entry file="file://$PROJECT_DIR$/example/android/app/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        <state relative-caret-position="18">
+          <caret line="1" column="27" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/android/app/src/debug/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/android/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="41" column="24" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/android/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="738">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/sip.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/lib/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/src/main/kotlin/com/qubevo/sip/PjSipModule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="48" column="5" lean-forward="true" selection-start-line="44" selection-start-column="4" selection-end-line="48" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/android/src/main/kotlin/com/qubevo/sip/SipPlugin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="44" column="5" lean-forward="true" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
+        <state relative-caret-position="522">
+          <caret line="29" column="79" selection-start-line="29" selection-start-column="79" selection-end-line="29" selection-end-column="79" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

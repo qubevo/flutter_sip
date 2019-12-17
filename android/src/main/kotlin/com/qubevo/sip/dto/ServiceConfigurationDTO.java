@@ -2,7 +2,6 @@ package com.qubevo.sip.dto;
 
 import android.content.Intent;
 
-import com.facebook.react.bridge.ReadableMap;
 import org.json.JSONObject;
 import org.pjsip.pjsua2.StringVector;
 
@@ -70,15 +69,15 @@ public class ServiceConfigurationDTO {
         return c;
     }
 
-    public static ServiceConfigurationDTO fromConfiguration(ReadableMap data) {
-        ServiceConfigurationDTO c = new ServiceConfigurationDTO();
-
-        if (data.hasKey("ua")) {
-            c.ua = data.getString("ua");
-        }
-
-        return c;
-    }
+//    public static ServiceConfigurationDTO fromConfiguration(ReadableMap data) {
+//        ServiceConfigurationDTO c = new ServiceConfigurationDTO();
+//
+//        if (data.hasKey("ua")) {
+//            c.ua = data.getString("ua");
+//        }
+//
+//        return c;
+//    }
 
     @Override
     public boolean equals(Object o) {

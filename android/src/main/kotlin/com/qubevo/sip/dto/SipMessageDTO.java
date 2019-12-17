@@ -1,10 +1,10 @@
 package com.qubevo.sip.dto;
 
-import com.facebook.react.bridge.ReadableMap;
-import com.facebook.react.bridge.ReadableMapKeySetIterator;
 import com.google.gson.Gson;
+import com.qubevo.sip.ReadableMap;
+import com.qubevo.sip.ReadableMapKeySetIterator;
 
-import org.pjsip.pjsua2.SipHeaderVector;
+//import org.pjsip.pjsua2.SipHeaderVector;
 
 import java.util.HashMap;
 import java.util.Map;
