@@ -6,8 +6,11 @@ import io.flutter.plugin.common.MethodChannel
 import io.flutter.plugin.common.MethodChannel.MethodCallHandler
 import io.flutter.plugin.common.MethodChannel.Result
 import io.flutter.plugin.common.PluginRegistry.Registrar
+import android.content.Intent
 
-class SipPlugin: MethodCallHandler {
+
+
+class SipPlugin2: MethodCallHandler {
   companion object {
     @JvmStatic
     fun registerWith(registrar: Registrar) {
@@ -23,6 +26,11 @@ class SipPlugin: MethodCallHandler {
     } else {
       result.notImplemented()
     }
+  }
+
+  fun createAccount() {
+    val intent = PjActions.createAccountCreateIntent();
+
   }
 
 }
