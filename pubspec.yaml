@@ -1,7 +1,6 @@
 name: sip
 description: A SIP pluging for Flutter.
 version: 0.0.1
-author: Florin Dumitru
 homepage: https://github.com/qubevo/flutter_sip
 
 environment:
